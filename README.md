@@ -1,2 +1,0 @@
-# CodeWarsTraning
-Created with CodeSandbox
