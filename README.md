@@ -1,4 +1,4 @@
-:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp):fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
+:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp):fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
 
 ## White (Beginner)
 
