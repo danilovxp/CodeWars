@@ -1,4 +1,4 @@
-https://www.codewars.com/users/danilovxp/badges/large
+[Logo](https://www.codewars.com/users/danilovxp/badges/large)
 
 [Profile](https://www.codewars.com/users/danilovxp)
 
