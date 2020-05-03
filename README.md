@@ -4,7 +4,7 @@
 
 <h2 align="center">White (Beginner)</h2>
 
-<h3 align="center">8 Kyu</h3>
+<h3 align="center">:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	8 Kyu:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	</h3>
 
 8 kyu kata represent a beginner level.
 At this level the kata is only challenging for users new to programming.
@@ -15,7 +15,7 @@ This includes programming tasks such as:
 - Fixing basic syntax issues
 - Trivial algorithms such as basic if/else statements
 
-<h3 align="center">7 Kyu</h3>
+<h3 align="center">:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	7 Kyu:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	</h3>
 
 7 kyu kata represent a beginner programming level.
 At this level the kata will generally challenge users on their core language and API reference knowledge.
@@ -28,7 +28,7 @@ Tasks such as:
 
 <h2 align="center">Yellow (Novice)</h2>
 
-<h3 align="center">6 Kyu</h3>
+<h3 align="center">:ledger::ledger::ledger:6 Kyu:ledger::ledger::ledger:</h3>
 
 6 kyu kata represent a novice programming level. At this level the kata will start to include more advanced algorithmic challenges and more complex language features. It includes:
 
@@ -37,7 +37,7 @@ Tasks such as:
 - Basic Design Patterns
 - Complex Regular Expressions
 
-<h3 align="center">5 Kyu</h3>
+<h3 align="center">:ledger::ledger::ledger:5 Kyu:ledger::ledger::ledger:</h3>
 
 5 kyu kata represent a novice programming level.
 At this level the kata are similar to 6 kyu but more challenging.
@@ -50,7 +50,7 @@ It includes:
 
 <h2 align="center">Blue (Competent)</h2> 
 
-<h3 align="center">4 Kyu</h3>
+<h3 align="center">:blue_book::blue_book::blue_book:4 Kyu:blue_book::blue_book::blue_book:</h3>
 
 4 kyu kata represent a competent programming level.
 At this level the kata begin to take some serious thought to complete.
@@ -61,7 +61,7 @@ They include tasks that may handle:
 - Understanding intricate business requirements
 - Advanced concepts such as concurrency, parallelism, meta programming and cryptography
 
-<h3 align="center">3 Kyu</h3>
+<h3 align="center">:blue_book::blue_book::blue_book:3 Kyu:blue_book::blue_book::blue_book:</h3>
 
 3 kyu kata represent a competent programming level.
 At this level the kata are similar to 4 kyu but are more challenging.
@@ -75,7 +75,7 @@ They include tasks that may handle:
 <h2 align="center">Purple (Proficient)</h2> 
 
 
-<h3 align="center">2 Kyu</h3>
+<h3 align="center">:kimono::kimono::kimono:2 Kyu:kimono::kimono::kimono:</h3>
 
 2 kyu kata represent a proficient programming level.
 At this level kata require a mature understanding of complex programming concepts - concepts such as:
@@ -85,7 +85,7 @@ At this level kata require a mature understanding of complex programming concept
 - Basic interpreters and compilers
 - Basic mini-programs with multiple feature requirements (such as a basic markdown parser)
 
-<h3 align="center">1 Kyu</h3>
+<h3 align="center">:kimono::kimono::kimono:1 Kyu:kimono::kimono::kimono:</h3>
 
 1 kyu kata represent a proficient programming level.
 At this level kata are similar to 2 kyu but more challenging.
