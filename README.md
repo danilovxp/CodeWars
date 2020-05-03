@@ -1,4 +1,7 @@
-[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp)
+<p align="center">
+  <img src="https://www.codewars.com/users/danilovxp/badges/large">
+</p>
+
 
 [Profile](https://www.codewars.com/users/danilovxp)
 
