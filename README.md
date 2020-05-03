@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://www.codewars.com/users/danilovxp/badges/large" url="https://www.codewars.com/users/danilovxp">
-</p>
+[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp)
 
 
-[Profile](https://www.codewars.com/users/danilovxp)
 
 ## White (Beginner)
 
