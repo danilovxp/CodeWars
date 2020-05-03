@@ -1,5 +1,5 @@
-[Logo]()
 [![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp)
+
 [Profile](https://www.codewars.com/users/danilovxp)
 
 ## White (Beginner)
