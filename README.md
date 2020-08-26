@@ -17,7 +17,7 @@ This includes programming tasks such as:
 
 <h3 align="center">:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	7 Kyu:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	:notebook_with_decorative_cover:	</h3>
 
-7 kyu kata represent a beginner programming level.
+7 kyu kata represent a beginner programming level..
 At this level the kata will generally challenge users on their core language and API reference knowledge.
 Tasks such as:
 
@@ -48,7 +48,7 @@ It includes:
 - Complex Design Patterns
 - Advanced regular expression usage
 
-<h2 align="center">Blue (Competent)</h2> 
+<h2 align="center">Blue (Competent)</h2>
 
 <h3 align="center">:blue_book::blue_book::blue_book:4 Kyu:blue_book::blue_book::blue_book:</h3>
 
@@ -72,8 +72,7 @@ They include tasks that may handle:
 - Basic AI/machine learning algorithms
 - Detailed usage of advanced concepts such as concurrency, parallelism and cryptography
 
-<h2 align="center">Purple (Proficient)</h2> 
-
+<h2 align="center">Purple (Proficient)</h2>
 
 <h3 align="center">:kimono::kimono::kimono:2 Kyu:kimono::kimono::kimono:</h3>
 
