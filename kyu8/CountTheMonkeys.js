@@ -13,3 +13,5 @@ function monkeyCount(n) {
   }
   return arr;
 }
+
+monkeyCount();
