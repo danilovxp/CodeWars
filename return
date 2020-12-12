@@ -1,0 +1,5 @@
+[33mcommit d06b4423fab5ef58c2aa351525f9e62ba0112935[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: danilovxp <danilovxp@gmail.com>
+Date:   Sat Dec 12 12:08:50 2020 -0800
+
+    Remove n exclamation marks in the sentence from left to right. n is positive integer
