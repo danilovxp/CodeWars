@@ -8,8 +8,7 @@
 // Length should be between 4 and 16 characters (both included).
 
 function validateUsr(username) {
-  let res = /^[a-z0-9_-]{4,16}$/.test(username);
-  return res;
+  return /^[a-z0-9_-]{4,16}$/.test(username);
 }
 
 console.log(validateUsr('asddsa') /*true*/);
