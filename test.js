@@ -1,13 +1,23 @@
 function makeChocolates(small, big, goal){
 let count = 0;
-if(goal / 2 <= small && goal % 2 === 0){
-    return goal / 2
+if(small * 2 === goal){
+  return small;
   }
-return count
+for (let i = 0; i < big; i++){
+  if(goal > 0){
+      goal = goal - 5;
+      }
+    }
+  for(let j = 0; j < small; j++){
+      if(goal > 0){
+      goal = goal - 2;
+      count++;
+      }
+    }
+  return goal !== 0? -1 : count
 }
 
 
-console.log(makeChocolates(4, 1, 13))//, 4);
 console.log(makeChocolates(4, 1, 14))//, -1);
 console.log(makeChocolates(2, 1, 7))//, 1);
 console.log(makeChocolates(3, 1, 6))//, 3);
