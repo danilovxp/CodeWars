@@ -12,20 +12,20 @@
 
 
 function sumFibs(num) {
-  let a = 1, b = 0, c, evenArray = [], total = 0;
+  let num1 = 1, num2 = 0, num3, evenArray = [], sum = 0;
   while(num >= 1){
-    c = a;
-    a = a + b;
-    b = c;
-    evenArray.push(b);
+    num3 = num1;
+    num1 = num1 + num2;
+    num2 = num3;
+    evenArray.push(num2);
     num--
   }
   for(let i = 0; i < evenArray.length; i++){
     if(evenArray[i] % 2 === 0){
-      total += evenArray[i];
+      sum += evenArray[i];
     }
   }
-  return total
+  return sum
 };
 
 
