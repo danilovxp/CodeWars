@@ -11,9 +11,9 @@ function NameMe(first, last) {
   };
 
 
-//const n = new NameMe('John', 'Doe');
-//console.log(n.firstName) //Expected: John
-//console.log(n.lastName) //Expected: Doe
-//console.log(n.name) //Expected: John Doe
-//console.log(n)
-//console.log(NameMe());
+const n = new NameMe('John', 'Doe');
+console.log(n.firstName) //Expected: John
+console.log(n.lastName) //Expected: Doe
+console.log(n.name) //Expected: John Doe
+console.log(n)
+console.log(NameMe());
