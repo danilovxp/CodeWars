@@ -9,13 +9,13 @@
 // Note: String will have at least one element; words will always be separated by a space.
 
 function addLength(str) {
-let result = []
-let arr = str.split(" ");
-for(let i = 0; i < arr.length; i++){
-  result.push(`${arr[i]} ${arr[i].length}`)
-}
-return result
+  let result = [];
+  let arr = str.split(" ");
+  for (let i = 0; i < arr.length; i++) {
+    result.push(`${arr[i]} ${arr[i].length}`);
+  }
+  return result;
 }
 
-console.log(addLength('apple ban'))//,["apple 5", "ban 3"]);
-console.log(addLength('you will win'))//,["you 3", "will 4", "win 3"]);
+console.log(addLength("apple ban")); //,["apple 5", "ban 3"]);
+console.log(addLength("you will win")); //,["you 3", "will 4", "win 3"]);
