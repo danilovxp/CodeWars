@@ -1,18 +1,6 @@
-'use strict'
-const f = (b) => {
-  var c = 15;
-  console.log('f is', b);
-}
 
+const arr  = [4,2,6]
+let str = 'hello'
+console.log(str.split('').join(','));
 
-function f2(b) {
-  console.log('f2 is', b);
-}
-
-console.log(c)
-
-f(a)
-f2(a)
-
-
-
+console.log(arr.every(el => el % 2 === 0));
