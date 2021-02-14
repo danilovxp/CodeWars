@@ -13,9 +13,10 @@
 // guessBlue() should return the probability of drawing a blue marble, expressed as a float. For example, guessBlue(5, 5, 2, 3) should return 0.6.
 
 function guessBlue(blueStart, redStart, bluePulled, redPulled) {
-  return;
+  // return (blueStart - bluePulled) / (redStart - redPulled);
+  
 }
-
+console.log();
 console.log(guessBlue(5, 5, 2, 3)); //, 0.6);
 console.log(guessBlue(5, 7, 4, 3)); //, 0.2);
 console.log(guessBlue(12, 18, 4, 6)); //, 0.4);

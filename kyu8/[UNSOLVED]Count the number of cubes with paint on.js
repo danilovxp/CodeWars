@@ -12,7 +12,7 @@
 // countSquares(4) --> 98
 
 var countSquares = function(cuts){
-  return typeof(parseFloat('2'))
+  return 
 }
 
 console.log(countSquares(5))//,152)

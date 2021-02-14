@@ -3,7 +3,9 @@
 // Given a list of integers, find the positive difference between each consecutive pair of numbers, and put this into a new list of differences. Then, find the differences between consecutive pairs in this new list, and repeat until the list has a length of 1. Then, return the
 // The list will only contain integers, and will not be empty.
 
-function differences(a) {}
+function differences(a) {
+  
+}
 
 console.log(differences([1, 2, 3])); //, 0);
 // console.log(differences([1, 5, 2, 7, 8, 9, 0])); //, 1);

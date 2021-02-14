@@ -31,15 +31,25 @@
 // Output: false
 
 function logicalCalc(array, op) {
-  if (op === "AND" && array.includes(false)) {
-    return false;
-  } else if (op === "OR" && array.includes(true)) {
-    return true;
-  } else if (op === "XOR" && array.includes(true)) {
-    return true;
+  if(op === 'AND'){
+    if(array.includes(false)){
+      return false 
+    }else {
+      return true;
+    }
   }
-}
+  if(op === "OR"){
+    if(array.includes(true)){
+      return true
+    } else {
+      return false
+    }
+  }
+  if(op === "XOR"){
+    //! CODE HERE
+  }
 
+}
 console.log(logicalCalc([true, true, true, false], "AND")); //, false);
 console.log(logicalCalc([true, true, true, false], "OR")); //, true);
 console.log(logicalCalc([true, true, true, false], "XOR")); //, true);
