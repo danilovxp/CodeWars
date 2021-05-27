@@ -4,7 +4,7 @@
 // The list will only contain integers, and will not be empty.
 
 function differences(arr) {
-
+ return 132;
 }
 
 console.log(differences([1, 2, 3])); //, 0);
