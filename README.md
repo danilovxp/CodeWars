@@ -1,6 +1,6 @@
 <h1 align="center">Codewars Katas</h1>
 
-:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp):fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:
+[![CodeWars](https://www.codewars.com/users/danilovxp/badges/large)](https://www.codewars.com/users/danilovxp)
 
 <h2 align="center">White (Beginner)</h2>
 
