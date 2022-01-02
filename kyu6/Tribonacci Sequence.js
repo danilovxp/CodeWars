@@ -17,26 +17,22 @@
 // [Personal thanks to Professor Jim Fowler on Coursera for his awesome classes that I really recommend to any math enthusiast and for showing me this mathematical curiosity too with his usual contagious passion :)]
 
 function tribonacci(signature, n) {
-  if (n === 1) return [n];
+  if (n === 1) return [signature[0]];
   if (n === 0) return [];
   let res = signature;
-  let a, b, c;
   for (let i = 2; i < n; i++) {
-    a = res[i];
-    b = res[i - 1];
-    c = res[i - 2];
-    res.push(a + b + c);
+    res.push(res[i] + res[i - 1] + res[i - 2]);
   }
   return res.slice(0, res.length - 1);
 }
 
-// console.log(tribonacci([1, 1, 1], 10)); //,[1,1,1,3,5,9,17,31,57,105])
-// console.log(tribonacci([0, 0, 1], 10)); //,[0,0,1,1,2,4,7,13,24,44])
-// console.log(tribonacci([0, 1, 1], 10)); //,[0,1,1,2,4,7,13,24,44,81])
-// console.log(tribonacci([1, 0, 0], 10)); //,[1,0,0,1,1,2,4,7,13,24])
-// console.log(tribonacci([0, 0, 0], 10)); //,[0,0,0,0,0,0,0,0,0,0])
-// console.log(tribonacci([1, 2, 3], 10)); //,[1,2,3,6,11,20,37,68,125,230])
+console.log(tribonacci([1, 1, 1], 10)); //,[1,1,1,3,5,9,17,31,57,105])
+console.log(tribonacci([0, 0, 1], 10)); //,[0,0,1,1,2,4,7,13,24,44])
+console.log(tribonacci([0, 1, 1], 10)); //,[0,1,1,2,4,7,13,24,44,81])
+console.log(tribonacci([1, 0, 0], 10)); //,[1,0,0,1,1,2,4,7,13,24])
+console.log(tribonacci([0, 0, 0], 10)); //,[0,0,0,0,0,0,0,0,0,0])
+console.log(tribonacci([1, 2, 3], 10)); //,[1,2,3,6,11,20,37,68,125,230])
 console.log(tribonacci([3, 2, 1], 10)); //,[3,2,1,6,9,16,31,56,103,190])
-// console.log(tribonacci([1, 1, 1], 1)); //[1])
-// console.log(tribonacci([300, 200, 100], 0)); //[])
-// console.log(tribonacci([0.5, 0.5, 0.5], 30)); //,[0.5,0.5,0.5,1
+console.log(tribonacci([1, 1, 1], 1)); //[1])
+console.log(tribonacci([300, 200, 100], 0)); //[])
+console.log(tribonacci([0.5, 0.5, 0.5], 30)); //,[0.5,0.5,0.5,1
