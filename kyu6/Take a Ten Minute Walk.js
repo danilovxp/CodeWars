@@ -2,7 +2,30 @@
 
 // Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 function isValidWalk(walk) {
-  //insert brilliant code here
+  if (walk.length != 10) return false;
+  const obj = {
+    n: 0,
+    s: 0,
+    w: 0,
+    e: 0,
+  };
+  walk.forEach((el) => {
+    switch (el) {
+      case 'n':
+        obj.n++;
+        break;
+      case 's':
+        obj.s++;
+        break;
+      case 'w':
+        obj.w++;
+        break;
+      case 'e':
+        obj.e++;
+        break;
+    }
+  });
+  return obj.n === obj.s && obj.w === obj.e;
 }
 
 console.log(isValidWalk(['n', 's', 'n', 's', 'n', 's', 'n', 's', 'n', 's'])); //, 'should return true');
